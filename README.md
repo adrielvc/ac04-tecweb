@@ -1,8 +1,8 @@
 # ac04-tecweb
 projeto flask-heroku
 
-NOME: ADRIEL VICENTE DA CONCEIÇÃO
-RA: 1901842
+NOME: ADRIEL VICENTE DA CONCEIÇÃO   RA 1901842  
+NOME: MICAELLA BORGES LEAL  RA 1902427
 
 A atividade 4 vai consistir em criar uma aplicação Flask no Heroku com duas telas como mostrado nas imagens anexas.
 As rotas a implementar vão ser /inicio e /login (como mostrado no vídeo anexo). 
